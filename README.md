@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch, JavaScript, and backend development**
 
-- 👯 I’m looking to collaborate on **LLM projects or front-end applications.**
+- 👯 I’m looking to collaborate on **LLM projects or front-end applications**
 
 - 🤝 I’m looking for help with **Backend development**
 
