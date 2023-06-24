@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otisalejandro&label=Profile%20views&color=0e75b6&style=flat" alt="otisalejandro" /> </p>
 
-- 🔭 I’m currently working on [wAIfu](https://github.com/OtisAlejandro/wAIfu)
+- 🔭 I’m currently working on [Portfolio](https://github.com/OtisAlejandro/portfolio)
 
-- 🌱 I’m currently learning **PyTorch, JavaScript, and backend development**
+- 🌱 I’m currently learning **SQL, Ruby, and Python**
 
 - 👯 I’m looking to collaborate on **LLM projects or front-end applications**
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 💬 Ask me about **discord.py, API, Python**
+- 💬 Ask me about **discord.js, React.js, Vite**
 
-- ⚡ Future Projects **More Discord projects, frontend apps, and backend development**
+- ⚡ Future Projects **Full stack web applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
