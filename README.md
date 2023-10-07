@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Otis</h1>
-<h3 align="center">A hard-working programmer from the US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otisalejandro&label=Profile%20views&color=0e75b6&style=flat" alt="otisalejandro" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/OtisAlejandro/portfolio)
+- 🔭 I’m currently working on Machine Learning frameworks with [Nous Research(https://github.com/NousResearch)
 
-- 🌱 I’m currently learning **SQL, Ruby, and Python**
+- 🌱 I’m currently working with **TypeScript, Python, and C++**
 
 - 👯 I’m looking to collaborate on **LLM projects or front-end applications**
 
-- 🤝 I’m looking for help with **Backend development**
-
-- 💬 Ask me about **discord.js, React.js, Vite**
-
-- ⚡ Future Projects **Full stack web applications**
+- 💬 I have the most experience with **discord.js, React.js, and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
