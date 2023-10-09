@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otisalejandro&label=Profile%20views&color=0e75b6&style=flat" alt="otisalejandro" /> </p>
 
-- 🔭 I’m currently working on Machine Learning frameworks with [Nous Research(https://github.com/NousResearch)
+- 🔭 I’m currently working on Machine Learning frameworks with [Nous Research](https://github.com/NousResearch)
 
 - 🌱 I’m currently working with **TypeScript, Python, and C++**
 
